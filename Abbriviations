@@ -114,6 +114,9 @@ Abbriviations:
                     YoT
                     NoT
     Tier-4:
+        KaL
+        MeJ
+        GiJ
         AsT
         LuN
         FrM
@@ -121,11 +124,96 @@ Abbriviations:
         SoL
         BeT**
         GaX
-        GlO
+        GlC
         SuP
         VrS
         MlT
-
+        MeT
+        XeV
+        HyP
+        OmV
+        OuT
+        Prefix:
+            BrRl/Br-
+            Grl/G-
+            AsRl/As-
+            FrRl/Fr-
+            LuRl/Lr-
+            JoRl/Jr-
+            SoRl/Sr-
+            BeRl/Br-
+            Prefix:
+                HuT
+                MuT
+                GuT
+                AsuT
+                FuT
+                LuT
+                JuT
+                SuT
+                BuT
+    Tier-5:
+        Hep
+        Ott
+        Net
+        Det
+        Unt
+        Ent
+        Fi
+        Sy
+        Br
+        prefix:
+            Gep/Ge'
+            Ams/Am'
+            Hpr/Hp
+            Kyr/Ky'
+            Pij/Pi'
+            Sgn/Sg'
+            Pec/Pe'
+            Nsb/Ns'
+            Ztz/Zt'
+            prefix:
+                Alp/Al'
+                Bex/Be'
+                Gam/Ga'
+                Del/De'
+                Tht/Th'
+                lot/lo'
+                Kap/Ka'
+                Lmb/Lm'
+                Sgm/Sg'
+    Tier-6:
+        HPx
+        DIs
+        TrIs
+        SuffixN:
+            Ks
+        TeKs
+        PeKs
+        HeKs
+        HpKs
+        OcKs
+        EnKs
+        Suffix:
+            DcKs
+            DiKs
+            TcKs
+            TsKs
+            PcKs
+            HcKs
+            HpcKs
+            OgKs
+            EcKs
+            Suffix:
+                HcKs
+                DsKs
+                TsKs
+                TesKs
+                PsKs
+                HsKs
+                HtKs
+                OsKs
+                EsKs
 
 
     Prefixes4:
@@ -287,14 +375,14 @@ Numbers:
             Omniv
             Out
             Prefix:
-                Barrel
-                Garrel
-                Aarrel
-                Lunarrel
-                Fermarrel
-                Jovarrel
-                Solarrel
-                Betarrel
+                Barr-
+                Garr-
+                Aarr-
+                Lunarr-
+                Fermarr-
+                Jovarr-
+                Solarr-
+                Betarr-
                 Prefix:
                     Hut
                     Mut
@@ -403,25 +491,25 @@ Numbers:
                         occtiole/occtiolet
                         enniole/enniolet
             tier-8:
-1                hydro'/hydr
-2                helo'/hel
-3                litho'/lith
-4                beryllo'/beryll
-5                boro'/bor
-6                carbo'/carb
-7                nitro'/nitr
-8                oxygo'/oxyg
-9                fluoro'/fluor
-10                neoo'/neo
-11                sodo'/sod
-12                mangeso'/manges
-13                alumo'/alum
-14                silico'/silic
-15                phospho'/phosph
-16                sulfo'/sulf
-17                chlo'/chl
-18                argo'/arg
-19                potasso'/potass
+                hydro'/hydr
+                helo'/hel
+                litho'/lith
+                beryllo'/beryll
+                boro'/bor
+                carbo'/carb
+                nitro'/nitr
+                oxygo'/oxyg
+                fluoro'/fluor
+                neoo'/neo
+                sodo'/sod
+                mangeso'/manges
+                alumo'/alum
+                silico'/silic
+                phospho'/phosph
+                sulfo'/sulf
+                chlo'/chl
+                argo'/arg
+                potasso'/potass
                 prefix:
                     heneo'/henee/hene
                     lineo'/line/linee
